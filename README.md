@@ -2,7 +2,7 @@
 
 File Description:
 
-This is the improved and enhanced version of AhMyth-Setup for amd64. I have modified this release to optimize its performance, improve stability, and enhance its overall functionality.
+This is an improved and modified version of AhMyth-Setup for amd64 processors. I modified this version to improve its performance, stability, and overall functionality.
 
 Download the updated version here:
 
